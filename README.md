@@ -1,4 +1,4 @@
-# twitteranalysis
+# Twitter Data Mining and Analytics
 
 Introduction:
 
